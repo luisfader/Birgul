@@ -1,21 +1,25 @@
 # Ben, Asi
 
-[Giriş — fısıltı]
-Şşş... Ateşe yaklaş.
-Ama dokunma.
-Ben kimsenin değilim.
+[Giriş]
+Şşş... yaklaş.
+Ateş sıcak... ama ben daha sıcağım.
+Dokunma. Henüz değil.
 
 [1. Kıta]
 Kekik, kan ve duman — benim çadırımın kokusu,
-kanyonun dibinde dans ediyor ateşin korkusu.
+tenimde ateşin izi, dudağımda kumun tuzu.
 Nekroloji'nin dibinde nefesim kömür karası,
 onların cenneti parlak, bizim payımız yarası.
 Broşürde "ütopya" yazıyordu, büyük harflerle,
 ben cevabımı yazdım: ateşle, kanla, çelikle.
-Kaçtığım gece yıldızlara ettim yeminimi:
+Kaçtığım gece yıldızlara fısıldadım yeminimi:
 hiçbir duvar görmeyecek bir daha eğik başımı.
-Bugün bu kanyon, yarın başka bir kanyon — iz yok.
-Beni kuşatamazsın, çünkü kuşatacak bir yer yok.
+Bugün bu kanyon, yarın başka — arkamda iz yok.
+Kuşatamazsın beni, çünkü kuşatacak bir yer yok.
+
+[Yavaş]
+Yavaş... daha yavaş...
+Gözlerime bak. Ellerime değil.
 
 [Nakarat]
 Ben asiyim — yaklaş, ama yavaş,
@@ -27,15 +31,16 @@ beni seven rüzgâr olsun... yoksa git.
 [2. Kıta]
 Sonra sen geldin — yamalı, kırık kaburgalı,
 ağzında "hep birlikte", gözlerin masal kokulu.
-Ateşin başında dedin: duvar, kule, okul...
-Güldüm: "Güzel bir masal." Ama sesim titredi bir an,
+Ateşin başında dedin: duvar, kule, okul —
+ben güldüm, ama içimde bir ses dedi: "Kal. Dokun."
+"Güzel bir masal," dedim, ama sesim titredi bir an,
 çünkü inanırsam sana — yeminim olurdu yalan.
-Sana bir çöl gülü verdim, avucunda kristal taş,
-içinde söyleyemediğim her şey — dokun, ama yavaş.
+Avucuna bir çöl gülü bıraktım, kristal bir taş,
+içinde söyleyemediğim her şey — dokun... ama yavaş.
 Dudaklarım "git" dedi, gözlerim "kal" diye bağırdı,
 toz bulutunda kaybolurken kalbim seni çağırdı.
-Dönüp baktın mı, bilmiyorum, hiç söylemedin bana.
-Ben baktım — kanyonun ağzında, kollarım göğsümde, tek başıma.
+Dönüp baktın mı? Bilmiyorum, hiç söylemedin bana.
+Ben baktım — kollarım göğsümde, kanyonda, tek başıma.
 
 [Nakarat]
 Ben asiyim — yaklaş, ama yavaş,
@@ -43,14 +48,13 @@ tenimde çölün sıcağı, gözlerimde savaş.
 Ben asiyim — ne kapı var ne kilit,
 beni seven rüzgâr olsun... yoksa git.
 
-[Köprü — fısıltı, yavaş]
-Gece. Kule.
-Konuşmayız artık.
-Sessizlik ağır... sessizlik sıcak.
-Bir kadın bir adamın yanında susmayı öğrendiyse,
+[Köprü]
+Gece. Kule. Sen ve ben — tek kelime yok.
+Sessizlik ağır, sessizlik sıcak, nefesin boynumda yanıyor.
+Bir kadın bir adamın yanında susmayı öğrendiyse...
 iş işten geçmiş demektir.
 
-[3. Kıta — sert, hızlı]
+[3. Kıta]
 Ben ödül değilim — meydanda bağırdım herkese:
 gururunuz için dövüşün, ben girmem o kafese.
 Tarih mi? Kaybedenlerinkini öğretirim ben,
@@ -66,7 +70,13 @@ tenimde çölün sıcağı, gözlerimde savaş.
 Ben asiyim — ne kapı var ne kilit,
 beni seven rüzgâr olsun... yoksa git.
 
-[Çıkış — fısıltı]
+[Nakarat]
+Ben asiyim — yaklaş, ama yavaş,
+tenimde çölün sıcağı, gözlerimde savaş.
+Ben asiyim — ne kapı var ne kilit,
+beni seven rüzgâr olsun... yoksa git.
+
+[Çıkış]
 Ben asiyim.
 Kimsenin değilim.
 ...Belki bir tek senin.
