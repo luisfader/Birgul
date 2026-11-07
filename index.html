@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Çöl Gülü — Müzik</title>
+  <meta name="description" content="Roberto Fader'in «Çöl Gülü» romanının müziği: şarkılar ve melodiler.">
+  <meta property="og:title" content="Çöl Gülü — Müzik">
+  <meta property="og:description" content="«Çöl Gülü» romanının müziği.">
+  <meta property="og:image" content="assets/img/cover.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=202611072200">
+</head>
+<body>
+  <div class="stars" aria-hidden="true"></div>
+  <div class="waves" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+
+  <header class="hero">
+    <img class="hero-bg" src="assets/img/cover.jpg" alt="">
+    <div class="hero-shade" aria-hidden="true"></div>
+    <div class="wrap hero-inner">
+      <p class="eyebrow">Ütopyamız · Romanın müziği</p>
+      <h1>Çöl <em>Gülü</em></h1>
+      <p class="lead">Kum, ateş ve turkuaz duvarlar. Asilerin şarkıları, kalenin melodileri.</p>
+      <p class="quote">«— Benim kapıya ihtiyacım yok.<br>Git artık.»</p>
+      <button class="btn" id="playAll" type="button">▶ Baştan dinle</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="intro">
+      <img class="cover" src="assets/img/cover.jpg" alt="«Çöl Gülü» romanının kapağı">
+      <div>
+        <h2>Çölün sessizliğini yırtan müzik</h2>
+        <p>Büyük Felaket'ten üç yıl sonra, bir kanyonun dibinde yanan ateşin başında, kimseye ait olmayan insanlar şarkı söylüyor. Sonra duvarlar yükseliyor, mancınıklar geliyor, ihanet içeriden açılıyor.</p>
+        <p>Burada müzik, kitapta duyulduğu sırayla toplandı. Her parçanın yanında romandan bir sahne ve satırlar, şarkıların yanında sözleri var.</p>
+      </div>
+    </section>
+
+    <h2 class="section-title">Müzik</h2>
+    <ol class="tracks" id="tracks"></ol>
+
+    <section class="scene" id="scene" hidden>
+      <img id="sceneImg" alt="" hidden>
+      <div class="scene-text">
+        <p class="eyebrow" id="sceneMeta"></p>
+        <h2 id="sceneTitle"></h2>
+        <blockquote id="sceneQuote"></blockquote>
+      </div>
+    </section>
+
+    <section class="lyrics" id="lyrics" hidden>
+      <p class="eyebrow">Şarkı sözleri</p>
+      <div id="lyricsBody" class="lyrics-body"></div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Müzik ve söz: Luis Fader · <a href="https://luisfader.github.io/litmir/#/col-gulu">«Çöl Gülü»</a> romanından, Litmir sitesinde.</p>
+  </footer>
+
+  <div class="player" id="player" hidden>
+    <button class="pbtn" id="prev" type="button" aria-label="Geri">⏮</button>
+    <button class="pbtn big" id="toggle" type="button" aria-label="Çal">▶</button>
+    <button class="pbtn" id="next" type="button" aria-label="İleri">⏭</button>
+    <div class="pinfo">
+      <span id="nowTitle"></span>
+      <input type="range" id="seek" min="0" max="100" value="0" step="0.1" aria-label="Konum">
+    </div>
+    <span class="ptime" id="time">0:00</span>
+  </div>
+  <audio id="audio" preload="none"></audio>
+
+  <script src="assets/js/treki.js?v=202611072200"></script>
+  <script src="assets/js/app.js?v=202611072200"></script>
+</body>
+</html>
