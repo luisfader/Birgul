@@ -12,5 +12,15 @@ window.TREKI = [
     "quote": "— Seni iyileştirdik çünkü insanız, — dedi Rosa. — Seni bırakıyoruz çünkü özgürüz. İkisini de unutma.",
     "song": true,
     "audio": false
+  },
+  {
+    "id": "02-kim-daha-cok-verir",
+    "title": "Kim Daha Çok Verir?",
+    "chapter": "10. Bölüm",
+    "scene": "Rosa, Juan'ın ordusunun karşısında",
+    "img": "konusma.jpg",
+    "quote": "— Size ekmek vaat ediyorlar. Aynı ekmeği bize de vaat ettiler, hatırlıyor musunuz? Ve çocuklarımız karanlıkta öldü.",
+    "song": true,
+    "audio": false
   }
 ];
